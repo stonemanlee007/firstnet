@@ -193,8 +193,9 @@ function toSubmit() {
 
 
 <div class="box" >
-<a href="" name = 'hotcomment'>我在用github管理网页哦</a>
+<a href="" name = 'hotcomment'>我在用github管理网页哦，挺有意思的</a>
 </div>
+
 
 
 <?php 
